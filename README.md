@@ -10,3 +10,12 @@ Developed an interactive Power BI dashboard to analyze Titanic passenger data, w
 ## Tools Used
 - Power BI
 
+**Dashboard Examples**
+
+
+![image alt](https://github.com/Khadiga-Hisham/Titanic-Analytics-Dashboard/blob/c4d1f77f61dcbbf617d94b36fec96862a249b7bd/Overview%20.png)
+
+![image alt](https://github.com/Khadiga-Hisham/Titanic-Analytics-Dashboard/blob/c4d1f77f61dcbbf617d94b36fec96862a249b7bd/Survival.png)
+
+![image alt](https://github.com/Khadiga-Hisham/Titanic-Analytics-Dashboard/blob/c4d1f77f61dcbbf617d94b36fec96862a249b7bd/Passenger.png)
+
